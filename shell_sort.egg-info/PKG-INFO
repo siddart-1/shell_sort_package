@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: shell_sort
+Version: 1.0
+Summary: A Python package for shell sort
+Author: Your Name
+Author-email: your_email@example.com
+Keywords: shell sort
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+
+A Python package for shell sort
